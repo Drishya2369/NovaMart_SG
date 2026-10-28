@@ -5,6 +5,8 @@
 
 ## Architecture
 
+![CloudCart Architecture](cloudcart-architecture.svg)
+
 ## Phases
 
 | Phase | Description | Status |
