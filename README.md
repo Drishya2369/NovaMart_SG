@@ -1,4 +1,4 @@
-# CloudCart — Serverless Order Processing on AWS
+# NovaMart_SG — Serverless Order Processing on AWS
 
 **Cloud Engineer:** Drishya Raj | **QA:** Bhavini  
 **Region:** eu-west-1 | **Status:** Phase 3 Complete ✅
